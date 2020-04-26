@@ -1,2 +1,2 @@
 # Calculator
-Python + Kivy
+Python + Kivy + eval()
